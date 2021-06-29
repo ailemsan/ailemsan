@@ -36,14 +36,26 @@
 <h4 align="left">Education:</h4>
 <h5 align="left">
   
-- 📖 ***Software engineering - Specialist***\
+- 📖 ***Software engineering - Specialist (Engenharia de Software - Especialista)***\
 📆 2010 - 2012\
 📍 **UnC - Universidade do Contestado** - Porto União - SC, Brazil
 
 
-- 📖 ***Computer management***\
+- 📖 ***Computer management (Informática de gestão)***\
 📆 2005 - 2008\
 📍 **UNIUV - Centro Universitário de União da Vitória** - União da Vitória - PR, Brazil
 </h5>
 
+
+<br/>
+<h4 align="left">Others:</h4>
+<h5 align="left">
+  
+- 📖 ***Festival Latino Americano de Instalação de Software Livre (FLISoL) - 2020***\
+📺 **Access link to watch:** <a href="https://www.youtube.com/watch?v=PaoGo59unu8">Mulheres e TI - Talentosas e Inteligentes</a>
+
+- 📖 ***Festival Latino Americano de Instalação de Software Livre (FLISoL) - 2021***  
+📺 **Access link to watch:** <a href="https://www.youtube.com/watch?v=oe7gj_Le_LE">Software Livre: Você Utiliza e Nem Imagina!</a>  
+</h5>  
+  
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ailemsan&show_icons=true&locale=en&layout=compact" alt="ailemsan" /></p>-->
