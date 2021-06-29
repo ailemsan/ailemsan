@@ -36,7 +36,7 @@
 <h4 align="left">Education:</h4>
 <h5 align="left">
   
-- 📖 ***Software engineering - Specialist (Engenharia de Software - Especialista)***\
+- 📖 ***Software engineering - Expert (Engenharia de Software - Especialista)***\
 📆 2010 - 2012\
 📍 **UnC - Universidade do Contestado** - Porto União - SC, Brazil
 
